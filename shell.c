@@ -24,7 +24,7 @@ int main(void)
 	printf("CS149 Shell from\n");
 	while(should_run == 1)
 	{
-		printf("---------should_run: %d \n--------\n", should_run);
+		//printf("---------should_run: %d \n--------\n", should_run);
 		int arg_i = 0; 
 	
 		printf("Demo-123>");
